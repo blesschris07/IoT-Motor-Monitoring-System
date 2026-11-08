@@ -1,0 +1,24 @@
+SMART INDUSTRIAL IoT MOTOR MONITORING SYSTEM
+
+Controller:
+Arduino UNO
+
+Wi-Fi Module:
+ESP8266
+
+Sensors:
+1. MPU6050 - Vibration
+2. LM35 - Temperature
+3. ACS712 - Current
+4. Hall Effect Sensor - RPM
+
+Output Devices:
+1. 16x2 LCD
+2. Buzzer
+3. Green LED
+4. Yellow LED
+5. Red LED
+6. Relay Module
+
+Project Status:
+Under Development
